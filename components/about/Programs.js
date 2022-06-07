@@ -3,7 +3,7 @@ import AiProducer from "../../assets/icons/AiProducer";
 import GasPredictor from "../../assets/icons/GasPredictor";
 
 const style = {
-  section: `antialiased pt-[5rem] pb-[15rem]`,
+  section: `antialiased pt-[5rem] pb-[15rem] overflow-x-hidden`,
   title: `text-center text-[2.5rem] font-montserrat uppercase pb-[5rem]`,
   contentWrapper: `max-w-7xl mx-auto relative`,
   containerBeats: `w-1/2 pt-[6rem] pb-[10rem]`,
