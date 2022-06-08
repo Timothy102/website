@@ -52,13 +52,13 @@ const Hero = () => {
               className={`${style.button} ${style.buttonPrimary}`}
               onClick={navigateToForm}
             >
-              Become a Ryder
+              Become an artist
             </button>
             <button
               className={`${style.button} ${style.buttonSecondary}`}
               onClick={navigateToUrlTree}
             >
-              Become a Member
+              Join our community
             </button>
           </div>
         </div>
